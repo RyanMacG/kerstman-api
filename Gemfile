@@ -39,6 +39,7 @@ group :test do
   gem 'rspec-rails'
   gem 'rspec-its'
   gem 'factory_girl'
+  gem 'faker'
   gem 'rubocop', require: false
   gem 'rubocop-rspec'
 end
